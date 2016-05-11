@@ -1,0 +1,48 @@
+* { 
+	margin: 0;
+	padding: 0;
+}
+ body {
+	background-image:url(img/f11.png);
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-attachment:scroll;
+
+	}
+.contakt{
+	 float: right;
+	 margin-top:16%;
+	 margin-right:7%;
+	 width:10%;
+	 margin-bottom:-10px;
+}
+.logo{
+	margin-bottom:-22px;
+	margin-left:50px;
+	margin-top:5%;
+	 width:30%;
+}
+}
+.container {
+ width: 90%; 
+ height:100%;
+}
+.img{
+	margin-left:50px;
+	margin-top:0px;
+	width:30%;
+}
+.img1{
+	margin-top:0px;
+	width:30%;
+}
+.img2{
+	margin-top:40px;
+}
+p{
+	color:#e6e6e6;
+	text-align:center;
+	font-size:22px;
+	margin-bottom:50px;
+	margin-top:280px;
+}
