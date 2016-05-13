@@ -22,22 +22,38 @@
 	margin-top:5%;
 	 width:30%;
 }
-}
+
 .container {
  width: 90%; 
  height:100%;
 }
 .img{
-	margin-left:50px;
-	margin-top:0px;
+	margin-left:100px;
+	margin-top:-10px;
 	width:30%;
+	 opacity: 0.7;
 }
+
 .img1{
 	margin-top:0px;
 	width:30%;
+	opacity: 0.7;
 }
 .img2{
 	margin-top:40px;
+	opacity: 0.7;
+}
+ .img1:hover {
+    width: 31%;
+	 opacity: 1;
+}
+ .img2:hover {
+    width: 31%;
+	 opacity: 1;
+}
+ .img:hover {
+    width: 31%;
+	 opacity: 1;
 }
 p{
 	color:#e6e6e6;
